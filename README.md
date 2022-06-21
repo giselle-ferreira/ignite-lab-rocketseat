@@ -18,3 +18,7 @@ React project of a platform event, developed during the Rocketseat event, #Ignit
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
+
+
+
+
