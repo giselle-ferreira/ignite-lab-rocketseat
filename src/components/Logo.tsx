@@ -1,6 +1,7 @@
 export function Logo() {
   return (
     <svg
+    className="md:mx-0 sm:mx-auto"
       xmlns="http://www.w3.org/2000/svg"
       width="237"
       height="34"
