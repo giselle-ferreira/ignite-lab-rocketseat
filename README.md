@@ -6,13 +6,14 @@
 <br/>
 
 ># About
-React project of a platform event, developed during the Rocketseat event, #IgniteLab
+React project of a platform event, developed during the [Rocketseat](https://rocketseat.com.br/) event, #IgniteLab
 
 <br/>
 
 ># Deploy
 
-https://ignitelab-giselle.vercel.app/
+https://ignitelab-giselle.vercel.app/  <i>(Final app in progress)</i>
+
 
 <br/>
 
@@ -22,6 +23,16 @@ https://ignitelab-giselle.vercel.app/
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+># Libs | Deploy
+- Phosphor Icons
+- Date-fns
+- Vime
+- React Router Dom
+- GraphQL Code Generator
+- Vercel
 
 <br/>
 
