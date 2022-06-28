@@ -50,7 +50,7 @@ export function Lesson(props: LessonProps) {
                         <span className="w-[13px] h-[13px] bg-green-500 rounded absolute bottom-[45%] left-[-6px] rotate-45"></span>
                     ) : (
                         ''
-                    ) };           
+                    ) }           
 
                     <span className={`text-xs rounded py-[0.125rem] px-2 text-white border font-bold ${isActiveLesson ? 'border-white' : 'border-green-300' }`}>
                         {props.type === 'live' ? 'AO VIVO' : 'AULA PRÁTICA'}

@@ -1,4 +1,4 @@
-import { Rocket, SmileyXEyes } from "phosphor-react";
+import { SmileyXEyes } from "phosphor-react";
 import { useParams } from "react-router-dom";
 import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
