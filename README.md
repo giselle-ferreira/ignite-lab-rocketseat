@@ -12,8 +12,14 @@ React project of a platform event, developed during the [Rocketseat](https://roc
 
 ># Deploy
 
-https://ignitelab-giselle.vercel.app/  <i>(Final app in progress)</i>
+https://ignitelab-giselle.vercel.app/  
 
+<br/>
+
+># Additional Features <i>(in progress)</i>
+
+- Responsiveness
+- Footer
 
 <br/>
 
